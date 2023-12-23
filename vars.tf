@@ -51,7 +51,7 @@ variable dbpass {
 }
 
 variable instance_count {
-    default = "1"
+    default = "2"
 }
 
 variable "ZONE1" {
