@@ -69,7 +69,7 @@ variable "ZONE3" {
 variable VPC_CIDR {
     default = "172.20.0.0/16"
 }
-variable VPC_PUB2_CIDR {
+variable VPC_PUB1_CIDR {
     default = "172.20.1.0/16"
 }
 variable VPC_PUB2_CIDR {
